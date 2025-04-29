@@ -10,5 +10,10 @@ public class Main {
     System.out.println("mul :"+(a*b));
     System.out.println("div :"+(a/b));
 
+    System.out.println("Square root of a :"+Math.sqrt(a));
+    System.out.println("Square root of b :"+Math.sqrt(b));
+    System.out.println("Cube root of a :"+Math.cbrt(a));
+    System.out.println("Cube root of b :"+Math.cbrt(b));
+    System.out.println("a raised to the power b :"+Math.pow(a,b));
 }
 }
